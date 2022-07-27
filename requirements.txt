@@ -1,0 +1,11 @@
+seaborn
+pandas
+numpy
+matplotlib
+nltk
+statsmodels
+sklearn
+xgboost
+plotly
+vaderSentiment
+wordcloud
