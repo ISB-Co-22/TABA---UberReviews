@@ -34,7 +34,7 @@ from SupervisedLearning import *
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 FILE_ADDRESS = st.sidebar.file_uploader('Upload file')
-stopwords_eng = stopwords.words("English")
+stopwords_eng = stopwords.words("english")
 
 # Default landing page if no file has been uploaded.
 if FILE_ADDRESS is None:
