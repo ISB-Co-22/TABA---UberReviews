@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from nltk.util import ngrams
 from string import punctuation
+from sklearn import *
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
@@ -284,6 +285,5 @@ else:
 			st.write( format(score_sent,".2f"))
 			time_taken = format(time.time() - start_time,".2f")
 			st.write("Time taken to do Supervised Learning in seconds:", time_taken)
-            
 
 
