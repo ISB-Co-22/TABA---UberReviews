@@ -10,8 +10,8 @@ import nltk
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from nltk.util import ngrams
-from string import punctuation
 from sklearn import *
+from string import punctuation
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
