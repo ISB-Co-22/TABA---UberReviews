@@ -1,7 +1,6 @@
-# TABA-UberReviews
-Text Analytics Group Assignment Streamlit application.
+# Text Analytics Group No 4 Assignment .
 
-Group Member:
+## Group Members:
 
 Abhishek Chintamani (12120082)
 
@@ -12,3 +11,5 @@ Rupali Agarwal (12120100)
 Smaranika Sikdar (12120092)
 
 Varun Ananthula (12120066)
+
+
